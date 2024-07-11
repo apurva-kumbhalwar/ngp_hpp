@@ -1,2 +1,2 @@
 # ngp_hpp
-This is Nagpur Price Prediction
+This is Nagpur House Price Prediction
